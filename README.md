@@ -2,4 +2,7 @@
 
 - Pequeno experimentos de UI com a biblioteca SWING do java.
 
-Neto
+- Yuri Lemos Rodrigues
+- Jhon Wesley Serra Lima
+- Bruno Marques França
+- Antonio Pedrosa Araujo Neto
